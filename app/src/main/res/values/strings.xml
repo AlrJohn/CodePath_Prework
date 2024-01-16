@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CodePath_Prework</string>
+    <string name="Intro_text_EN">Hello, my name is John. I love coding, and spending quality time with my family.</string>
+    <string name="Intro_text_SP">Hola, me llamo John. Yo amo codificar, y pasar tiempo de calidad con mi familia.</string>
+    <string name="button">Say Hi!</string>
+    <string name="currentLang">Spanish</string>
+</resources>
